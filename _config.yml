@@ -3,7 +3,7 @@
 # ---------------------------------------------------------------
 title: Albert Sarpong
 show_downloads: true
-theme: hiero
+theme: https://github.com/iTimeTraveler/hexo-theme-hiero
 
 # Header Menu
 menu:
