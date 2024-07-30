@@ -64,7 +64,7 @@ Over my years of experience in Cybersecurity, I have built competencies in the f
 
 ### PROFESSIONAL EXPERIENCE
 - Virtual Infosec Africa Ltd
-- Soc Analyst -August 2023-Present
+  Soc Analyst (August 2023-Present)
 
 ### Responsibilities
 
