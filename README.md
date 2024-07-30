@@ -12,26 +12,35 @@ dedicated approach to maintaining information security standards, proficient inc
 proactive breach prevention.
 
 ###  EDUCATION
-WEST END UNIVERSISTY COLLEGE
-BSC Computer Science
+WEST END UNIVERSISTY COLLEGE - BSC Computer Science
 
-IPMC INSTITUTE OF TECHNOLOGY
+
+IPMC INSTITUTE OF TECHNOLOGY-
+
 Advanced Diploma in Systems and Network Administration
 Diploma in Software Engineering
 
 ###  CERTIFICATIONS
 • Isc2 Certified Cybersecurity.
+
 • EC-Council Certified SOC Analyst.
+
 • Certified LogRhythm Platform Administrator
+
 • Certified LogRhythm Security Analyst
+
 • Microsoft Certified Azure Solutions Architect.
+
 • Microsoft Certified Azure Fundamentals.
+
 • Microsoft Certified Data Fundamentals.
+
 • Microsoft Certified SC-900, Microsoft.
+
 •	Ec-Council Certified Incident Handler
 
 ### AREAS OF EXPERTISE/SKILLS
-Over my years of experience in Cybersecurity, I have built competencies in the following areas: •
+Over my years of experience in Cybersecurity, I have built competencies in the following areas:•
 Incident Response, identifying and responding to security incidents.
 • Conducting regular vulnerability assessment and penetration tests.
 • Excellent knowledge on LogRhythm SIEM
