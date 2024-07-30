@@ -14,29 +14,19 @@ proactive breach prevention.
 ###  EDUCATION
 WEST END UNIVERSISTY COLLEGE - BSC Computer Science
 
-
 IPMC INSTITUTE OF TECHNOLOGY-
-
 Advanced Diploma in Systems and Network Administration
 Diploma in Software Engineering
 
 ###  CERTIFICATIONS
 • Isc2 Certified Cybersecurity.
-
 • EC-Council Certified SOC Analyst.
-
 • Certified LogRhythm Platform Administrator
-
 • Certified LogRhythm Security Analyst
-
 • Microsoft Certified Azure Solutions Architect.
-
 • Microsoft Certified Azure Fundamentals.
-
 • Microsoft Certified Data Fundamentals.
-
 • Microsoft Certified SC-900, Microsoft.
-
 •	Ec-Council Certified Incident Handler
 
 ### AREAS OF EXPERTISE/SKILLS
