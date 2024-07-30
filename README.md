@@ -14,6 +14,7 @@ proactive breach prevention.
 ###  EDUCATION
 WEST END UNIVERSISTY COLLEGE
 BSC Computer Science
+
 IPMC INSTITUTE OF TECHNOLOGY
 Advanced Diploma in Systems and Network Administration
 Diploma in Software Engineering
