@@ -64,6 +64,7 @@ Over my years of experience in Cybersecurity, I have built competencies in the f
 
 ### PROFESSIONAL EXPERIENCE
 - Virtual Infosec Africa Ltd
+  
   Contractor for Bank of Ghana Financial Industry Security Operation Centre (FICSOC)
   Soc Analyst (August 2023-Present)
 
