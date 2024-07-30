@@ -1,6 +1,6 @@
 # Cybersecurity Analyst
 
-###SUMMARY OF WORK EXPERIENCE
+### SUMMARY OF WORK EXPERIENCE
 I am a seasoned cybersecurity professional with expertise across diverse roles, including SOC
 analyst, incident response specialist, ethical hacker, penetration tester, and lead implementer. As a
 SOC analyst, I excel in swiftly detecting and responding to security incidents. In ethical hacking and
@@ -11,14 +11,14 @@ continuous learning, I stay updated on emerging threats and technologies. My car
 dedicated approach to maintaining information security standards, proficient incident response, and
 proactive breach prevention.
 
-###EDUCATION
+### EDUCATION
 WEST END UNIVERSISTY COLLEGE
 BSC Computer Science
 IPMC INSTITUTE OF TECHNOLOGY
 Advanced Diploma in Systems and Network Administration
 Diploma in Software Engineering
 
-###CERTIFICATIONS
+### CERTIFICATIONS
 • Isc2 Certified Cybersecurity.
 • EC-Council Certified SOC Analyst.
 • Certified LogRhythm Platform Administrator
@@ -29,7 +29,7 @@ Diploma in Software Engineering
 • Microsoft Certified SC-900, Microsoft.
 •	Ec-Council Certified Incident Handler
 
-###AREAS OF EXPERTISE/SKILLS
+### AREAS OF EXPERTISE/SKILLS
 Over my years of experience in Cybersecurity, I have built competencies in the following areas: •
 Incident Response, identifying and responding to security incidents.
 • Conducting regular vulnerability assessment and penetration tests.
@@ -51,7 +51,7 @@ Incident Response, identifying and responding to security incidents.
 • Ensuring data backup and recovery
 • Data center monitoring using Vcenter
 
-###PENETRATION TESTING SKILLS
+### PENETRATION TESTING SKILLS
 • Vulnerability Assessment
 • Network Scanning
 • Web Application Penetration Testing
@@ -63,11 +63,11 @@ Incident Response, identifying and responding to security incidents.
 • Report Writing
 • Security Tools (Metasploit, Burp Suite, Wireshark, etc.)
 
-###PROFESSIONAL EXPERIENCE
+### PROFESSIONAL EXPERIENCE
 Virtual Infosec Africa Ltd
 Soc Analyst -August 2023-Present
 
-###Responsibilities
+### Responsibilities
 
 • Utilize LogRhythm SIEM, Event Tracker SIEM for monitoring purposes.
 • Use Inquest a Deep File Inspection Tool and traffic analyzer to analyze network traffic
@@ -80,10 +80,10 @@ Soc Analyst -August 2023-Present
 • Leverage Microsoft Power BI to create insightful dashboards for data visualization.
 • Participating in security audits and compliance reviews
 
-###IPMC Ghana
+### IPMC Ghana
 Systems Administrator (Servers and Storages) June-2022 - August-2023
 
-###Responsibilities
+### Responsibilities
 • Data center monitoring using vSphere and Vcenter
 • Ensuring data backup and recovery using Veeam backup and Dell Avamar Data Protection
 Software.
@@ -94,7 +94,7 @@ Hardware’s.
 • Use Manage Engine to assign tickets to the respective technicians.
 • Go for Routine systems Inspection at Client Sites.
 
-###PROJECTS
+### PROJECTS
 1.Security Analyst on the Bank of Ghana  Financial Industry Command Security Operations Centre (FICSOC) Project 
 2.Utilized Machine learning to Build a Malicious Url Classifier.
 3.Utilized Machine Learning to Build Credit Card Fraud Detecetion System.
