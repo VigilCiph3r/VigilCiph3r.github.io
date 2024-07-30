@@ -1,6 +1,6 @@
 # Cybersecurity Analyst
 
-### SUMMARY OF WORK EXPERIENCE
+###  SUMMARY OF WORK EXPERIENCE
 I am a seasoned cybersecurity professional with expertise across diverse roles, including SOC
 analyst, incident response specialist, ethical hacker, penetration tester, and lead implementer. As a
 SOC analyst, I excel in swiftly detecting and responding to security incidents. In ethical hacking and
@@ -11,14 +11,14 @@ continuous learning, I stay updated on emerging threats and technologies. My car
 dedicated approach to maintaining information security standards, proficient incident response, and
 proactive breach prevention.
 
-### EDUCATION
+###  EDUCATION
 WEST END UNIVERSISTY COLLEGE
 BSC Computer Science
 IPMC INSTITUTE OF TECHNOLOGY
 Advanced Diploma in Systems and Network Administration
 Diploma in Software Engineering
 
-### CERTIFICATIONS
+###  CERTIFICATIONS
 • Isc2 Certified Cybersecurity.
 • EC-Council Certified SOC Analyst.
 • Certified LogRhythm Platform Administrator
