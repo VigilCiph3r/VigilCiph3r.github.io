@@ -35,7 +35,6 @@ Over my years of experience in Cybersecurity, I have built competencies in the f
 - Conducting regular vulnerability assessment and penetration tests.
 - Excellent knowledge on LogRhythm SIEM
 - Excellent knowledge on Inquest - Deep File Inspection Tool
-
 - Hands on experience with EventTracker SIEM
 - Hands on experience with Arctic Hub Threat Intelligence Platform
 - Excellent Knowledge with Vulnerability Management Tools such as Qualys and Nessus.
