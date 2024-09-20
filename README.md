@@ -52,18 +52,6 @@ Over my years of experience in Cybersecurity, I have built competencies in the f
 - Ensuring data backup and recovery
 - Data center monitoring using Vcenter
 
-### PENETRATION TESTING SKILLS
-- Vulnerability Assessment
-- Network Scanning
-- Web Application Penetration Testing
-- Active Directory (AD) Penetration Testing
-- Network Penetration Testing
-- Exploitation Techniques
-- Social Engineering
-- Threat Modeling
-- Report Writing
-- Security Tools (Metasploit, Burp Suite, Wireshark, etc.)
-
 ### PROFESSIONAL EXPERIENCE
 ### Virtual Infosec Africa Ltd  - Soc Analyst (August 2023-Present)
 
