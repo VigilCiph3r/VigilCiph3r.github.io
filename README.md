@@ -42,7 +42,7 @@ Over my years of experience in Cybersecurity, I have built competencies in the f
 -	Python, PowerShell,
 C++,C,C#,PHP,VB.Net,ASP.NET and SQL
 -	Linux
--	EDR,XDR,IPS, IDS and Firewall
+-	EDR,XDR,IPS,IDS and Firewall
 -	Cloud Security (Azure, GCP)
 -	Identity and Access Management
 -	Data Privacy Assessment (GDPR/Data Privacy Act, GH)
