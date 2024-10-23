@@ -30,27 +30,34 @@ IPMC INSTITUTE OF TECHNOLOGY
 Over my years of experience in Cybersecurity, I have built competencies in the following areas:
 - Incident Response, identifying and responding to security incidents.
 - Conducting regular vulnerability assessment and penetration tests.
-- Excellent knowledge on LogRhythm SIEM
+- Cyber Kill Chain and Mitre ATT&CK
+- Penetration Tests
+- CTF Player
+- Vulnerability Management Tools such as Qualys and Nessus
+- SIEM Tools and SOAR (Splunk,LogRhythm and EventTracker)
 - Excellent knowledge on Inquest - Deep File Inspection Tool
 - Malware Analysis and Yara Rules
 - Information Security Management
--	Security Audits
+-	Burpsuite
+-	Python, PowerShell,
+C++,C,C#,PHP,VB.Net,ASP.NET and SQL
+-	Linux
+-	IPS, IDS and Firewall
+-	Cloud Security (Azure, GCP)
 -	Identity and Access Management
 -	Data Privacy Assessment (GDPR/Data Privacy Act, GH)
-- Hands on experience with EventTracker SIEM
-- Hands on experience with Arctic Hub Threat Intelligence Platform
-- Excellent Knowledge with Vulnerability Management Tools such as Qualys and Nessus.
+-Threat Intelligence Platform(Arctic Hub, SOC Radar, Rapid7 and OPenCTI.)
 - Knowledge of common information security management frameworks such as ISO/IEC
 27001, COBIT and NIST including 800-53 and the Cybersecurity Framework.
-- Excellent understanding of the OSI and TCP/IP model.
-- Excellent knowledge on Microsoft Office Suite and Power-Bi.
-- Hands on experience with Splunk SIEM
-- Monitoring and analysing security risks and threats to the organization’s IT infrastructure.
-- Implementation and management of security controls to prevent and mitigate cyber-attacks.
-- Participating in security audits and compliance reviews.
+- ISO 27001, COBIT, CIS, NIST.
+- Data Analytics (Power-Bi & Tableau).
+- Security audits and compliance reviews.
 - General management of routers and Servers.
-- Ensuring data backup and recovery
-- Data center monitoring using Vcenter
+- Data backup and recovery Using Veeam and Dell Avamar backup solutions.
+- Vcenter and VSphere
+- ManageEngine Service Deskplus, a ticket management solution.
+- SolarWinds Network monitoring solotion
+- Room Alert , a data Center temperature monitoring solution
 
 ### PROFESSIONAL EXPERIENCE
 ### Virtual Infosec Africa Ltd  - Soc Analyst (August 2023-Present)
