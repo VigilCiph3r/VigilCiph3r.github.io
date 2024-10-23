@@ -1,7 +1,7 @@
 # Cybersecurity Analyst
 
 ###  SUMMARY OF WORK EXPERIENCE
-I am a Seasoned Cybersecurity Professional with 2 years of proven expertise in Incident Response, Vulnerability Management, 
+I am a Seasoned Cybersecurity Professional with 3 years of proven expertise in Incident Response, Vulnerability Management, 
 Threat Hunting, Malware Analysis, Penetration Testing, and Information Security Monitoring.
 I specialize in proactively strengthening defenses through advanced threat hunting, detailed malware analysis, 
 and simulated penetration tests. Results-driven and technically adept, 
