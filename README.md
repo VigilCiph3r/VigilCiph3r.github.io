@@ -1,4 +1,4 @@
-# CyberSecurity and Information Security Analyst
+# Cybersecurity and Information Security Analyst
 
 ###  SUMMARY OF WORK EXPERIENCE
 I am a Seasoned Cybersecurity Professional with 3 years of proven expertise in Incident Response, Vulnerability Management, 
