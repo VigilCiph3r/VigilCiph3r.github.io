@@ -60,9 +60,13 @@ Over my years of experience in Cybersecurity, I have built competencies in the f
 ### Responsibilities
 - A key team member of cybersecurity professionals, enhancing the security posture of the financial industry by safeguarding 24 major banks.
 - Actively monitored all 24 banks IT infrastructure, proactively detecting security incidents and emerging threats.
+- Conducted Tier 2/3 deep-dive investigations into potential security threats, uncovering and
+mitigating risks with a focus on minimizing incident resolution time.
 -	Prepared Daily COR Reports.
 -	Monitored and Prepared report on the security solution Status.
--	Assisted in the deployment and Implementation of LogRhythm Siem Solution.
+-	Conducted proactive threat-hunting operations, leveraging the MITRE ATT&CK framework and threat intel
+sources, successfully mitigating potential security risks monthly
+-	Assisted in the deployment and Implementation of LogRhythm Siem Solution fi clients.
 -	Investigated security alerts and events, successfully identifying the root cause and assessing the severity levels, contributing to a 28% reduction in incident resolution time and bolstering security measures.
 -	Meticulously documented all security incidents and their associated investigation findings, maintaining a detailed repository for future references, reporting, and compliance purposes
 -	Participated in regular training and knowledge transfer sessions, increasing the team's skills by 25%.
@@ -76,15 +80,27 @@ Over my years of experience in Cybersecurity, I have built competencies in the f
 - Systems Administrator (Servers and Storages) June-2022 - August-2023
 
 ### Responsibilities
-- Data center monitoring using vSphere and Vcenter
-- Ensuring data backup and recovery using Veeam backup and Dell Avamar Data Protection
-Software.
-- Deployment and management of Linux and Windows Servers.
-- Utilize Manage Engine to monitor status and take inventory of Servers and deployed
-Hardware’s.
-- General management of routers and Servers.
-- Use Manage Engine to assign tickets to the respective technicians.
-- Go for Routine systems Inspection at Client Sites.
+- Administered data center operations using vSphere and vCenter, ensuring optimal uptime and efficient
+resource allocation across infrastructure.
+- Collaborated to Design and implement security controls and performed regular system reviews to identify
+latent risks, ensuring that infrastructure was compliant with industry security standards.
+- Hardened operating systems by configuring Linux and Windows Servers to meet security standards, and
+ensured firewall protections were in place to guard against unauthorized access.
+- Collaborated with team members to develop and implement secure hardware interfacing and driver
+programming to optimize the security posture of the operating system and hardware layers, utilizing low-
+level programming languages (C, C++)
+- Maintained enterprise-grade data backup and recovery solutions leveraging Veeam Backup and Dell
+Avamar Data Protection Software, safeguarding critical business data.
+- Deployed, configured, and managed both Linux and Windows Servers, ensuring high availability and
+security compliance across multiple environments.
+-Monitored and analyzed system performance metrics, utilizing ManageEngine to track server status,
+manage hardware inventories, and proactively address system issues..
+- Oversaw the configuration, security, and performance of network infrastructure, including routers and
+servers, to support seamless business operations.
+- Coordinated IT service management processes, using ManageEngine to assign and prioritize service
+tickets, ensuring timely resolution by the appropriate technical teams.
+- Conducted routine system inspections and audits at client sites, ensuring compliance with security
+standards and optimizing system performance through preventative maintenance..
 
 ### PROJECTS
 1. Security Analyst on the Bank of Ghana  Financial Industry Command Security Operations Centre (FICSOC) Project 
